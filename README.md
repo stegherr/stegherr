@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stegherr
-- 👀 I’m interested in FOSS, linux, cloud, privacy, security.
-- 🌱 I’m currently learning React Native, Braintree.
-- 💞️ I’m looking to collaborate on climate solutions.
+- 👀 I’m interested in FOSS, linux, cloud, privacy, security, remote collab, parrots and lamps.
+- 🌱 I’m currently learning ML, AI.
+- 💞️ I’m looking to collaborate on climate, remote collab and security solutions.
 - 📫 How to reach me https://www.linkedin.com/in/michaelstegherr/
 
 <!---
